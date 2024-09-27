@@ -71,7 +71,7 @@ const router = createRouter({
       component: AddOrder,
     },
     {
-      path: "/edit-order",
+      path: "/edit-order/:trackNumber",
       name: "editOrder",
       component: EditOrder,
     },
