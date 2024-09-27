@@ -61,7 +61,7 @@ const router = createRouter({
       component: ListOrder,
     },
     {
-      path: "/show-order",
+      path: "/show-order/:trackNumber",
       name: "showOrder",
       component: ShowOrder,
     },
