@@ -40,10 +40,6 @@ Pour démarrer l'application, exécutez la commande suivante :
 npm run dev
 ```
 
-## Lien de deploiement de l'application
-
-[commercial-management-app]()
-
 ## Les fonctionalités
 
 ### 1. Gestion des Clients
@@ -64,6 +60,10 @@ npm run dev
 - **Modifier une Commande** : Interface pour mettre à jour les informations d'une commande existante.
 - **Afficher la Liste des Commandes** : Vue liste des commandes avec détails de chaque commande et options d'édition ou de suppression.
 - **Détails de la Commande** : Affichage détaillé des informations de chaque commande, y compris les produits associés et leur statut.
+
+## Lien de deploiement de l'application
+
+[commercial-management-app](commercial-management-app-blue.vercel.app)
 
 ## Authors
 
