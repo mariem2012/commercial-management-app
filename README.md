@@ -63,7 +63,7 @@ npm run dev
 
 ## Lien de deploiement de l'application
 
-[commercial-management-app](commercial-management-app-blue.vercel.app)
+[commercial-management-app](https://commercial-management-app-blue.vercel.app/)
 
 ## Authors
 
